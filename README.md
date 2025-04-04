@@ -87,16 +87,5 @@ lib/
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-## 🙌 Acknowledgements
-
-- [Flutter](https://flutter.dev/)
-- [ExchangeRate-API](https://www.exchangerate-api.com/)
-```
-
-Let me know if you want help writing a `main.dart` example, customizing this for your repo, or generating the license file.
