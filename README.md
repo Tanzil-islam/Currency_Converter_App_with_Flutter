@@ -68,12 +68,6 @@ A simple and responsive Currency Converter app built with **Flutter**. It fetche
 1. Go to [ExchangeRate-API](https://www.exchangerate-api.com/) and sign up for a free plan.
 2. Replace the placeholder API key in your Flutter code:
 
-```dart
-final String apiKey = 'YOUR_API_KEY_HERE';
-```
-
----
-
 ## 📂 Project Structure
 
 ```
